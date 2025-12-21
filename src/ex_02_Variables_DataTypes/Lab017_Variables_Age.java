@@ -1,4 +1,4 @@
-package ex_02_Java_Basics;
+package ex_02_Variables_DataTypes;
 
 public class Lab017_Variables_Age {
     static void main(String[] args) {

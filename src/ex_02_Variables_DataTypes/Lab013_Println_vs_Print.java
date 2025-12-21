@@ -1,4 +1,4 @@
-package ex_02_Java_Basics;
+package ex_02_Variables_DataTypes;
 
 public class Lab013_Println_vs_Print {
     public static void main(String[] args) {
