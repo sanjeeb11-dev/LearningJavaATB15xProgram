@@ -1,6 +1,6 @@
 package Class_Task;
 
-public class Lab001_Table_9 {
+public class Table_9 {
     static void main(String[] args) {
         int n = 9;
         System.out.printf("%d*1=%d%n",n,n*1);

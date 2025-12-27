@@ -1,6 +1,6 @@
 package Variables_DataTypes;
 
-public class Lab015_Variables {
+public class Variables {
     static void main(String[] args) {
 //        '''
 //        data_type variable_name = variable_value
@@ -9,7 +9,7 @@ public class Lab015_Variables {
         byte age_Raja = 28;
 //        byte ->data type - type of container
 //        age_Raja ->Variable name/Identifier
-//        = -> Assignment Operator ? (After some time)
+//        = -> Assignment Operator / ? (After some time)
 //        45 -> Variable value / Literal
         age_Raja = 112;
         age_Raja = 119;

@@ -1,8 +1,12 @@
 package Variables_DataTypes;
 
-public class Lab024_Printf {
-    static void main(String[] args) {
-//        System.out.println("It will add a new line");
+public class Print_vs_Println_vs_Printf {
+    public static void main(String[] args) {
+//        System.out.println("Hello");
+//        System.out.println("Pramod");
+//        System.out.print("Hello");
+//        System.out.print("Pramod");
+        //        System.out.println("It will add a new line");
 //
 //        System.out.print("It will not add a new line");
 

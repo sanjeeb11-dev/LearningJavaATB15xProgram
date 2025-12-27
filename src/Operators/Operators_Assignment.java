@@ -1,6 +1,6 @@
 package Operators;
 
-public class Lab036_Operators_Assignment {
+public class Operators_Assignment {
     static void main(String[] args) {
         int age = 10;
         // Assignment operator

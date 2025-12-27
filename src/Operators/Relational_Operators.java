@@ -1,6 +1,6 @@
 package Operators;
 
-public class Lab040_Relational_Operators {
+public class Relational_Operators {
     static void main(String[] args) {
         // < Less Than
         // < =  -> Less than or equal to

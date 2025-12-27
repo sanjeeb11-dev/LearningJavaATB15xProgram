@@ -1,10 +1,9 @@
-package Variables_DataTypes;
+package Operators;
 
-public class Lab016_Variable {
+public class Incr_Decr {
     static void main(String[] args) {
         int a = 10;
-        int a1 = -10;
-        a=65+1;
+        System.out.println(++a + a++ + a++);
         System.out.println(a);
     }
 }

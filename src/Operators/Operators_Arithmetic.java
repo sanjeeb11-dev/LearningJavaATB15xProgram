@@ -1,6 +1,6 @@
 package Operators;
 
-public class Lab037_Operators_Arithmetic {
+public class Operators_Arithmetic {
     static void main(String[] args) {
         // Arithmetic Operators
         //        + (Addition)

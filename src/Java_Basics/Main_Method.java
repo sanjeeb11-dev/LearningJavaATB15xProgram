@@ -1,6 +1,6 @@
-package Variables_DataTypes;
+package Java_Basics;
 
-public class Lab014_Main_Method {
+public class Main_Method {
 //    public static void main(String[] args) {
 //
 //    }
