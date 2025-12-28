@@ -15,6 +15,7 @@ public class Numerics_Data_Types {
         float f = 5.23f;
         float f_1 = 5.98F;
 
+        /*
         double d = 3.455777;
         int a = 10;
         byte b = 10;
@@ -24,6 +25,7 @@ public class Numerics_Data_Types {
         double d = 67.8987654567;
         boolean b1 = true;
         char c = 'A';
+        */
 
        /*
         int a = 10, b = 10, c = 10;
