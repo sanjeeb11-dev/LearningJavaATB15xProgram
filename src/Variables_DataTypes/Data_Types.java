@@ -1,6 +1,6 @@
 package Variables_DataTypes;
 
-public class Numerics_Data_Types {
+public class Data_Types {
     static void main(String[] args) {
         byte b = 10;
         short s = 10;
@@ -8,7 +8,7 @@ public class Numerics_Data_Types {
         char c1 = 'A';
         char c2 = '@';
         char c3 = '_';
-//        int phone = 7786567478; can't store in small size data type
+//        int phone = 7786567478; //can't store in small size data type
         long phone = 7868767567L;
 //        long phone_1 = 3658758765l;
 

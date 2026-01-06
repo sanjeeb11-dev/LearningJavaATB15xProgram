@@ -9,7 +9,9 @@ public class Grade_If_else_Statement {
         for (;;) {   // infinite loop to retry input
 
             System.out.println("Enter the Subject :");
-            String subject = scan.next().toLowerCase();
+//            String subject = scan.next();
+            String subject = scan.next().toLowerCase(); // It will accept both upper and lower case of letter
+//            System.out.println(subject);
 
             if (subject.equals("maths") ||
                     subject.equals("english") ||

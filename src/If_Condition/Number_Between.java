@@ -20,7 +20,7 @@ public class Number_Between {
             } else {
                 System.out.println("Enter Number in between 70 to 90");
             }
-//            scan.close();
+//            scan.close(); //using for loop in which scanner close not required
         }
     }
 }
