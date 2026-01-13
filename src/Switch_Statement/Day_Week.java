@@ -6,7 +6,8 @@ public class Day_Week {
     static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        while (true) {
+//        while (true)
+        for(;;){
 
             System.out.println("Enter the number 1 to 7 of the day in a week : ");
 

@@ -16,8 +16,8 @@ public class Factorial_Number {
                 scan.next();
                 continue;
             }
-
             int fact = 1;
+
             if (scan.hasNextInt()) {
                 int n = scan.nextInt();
 //                System.out.println(n);
@@ -28,5 +28,6 @@ public class Factorial_Number {
             }
             break;
         }
+        scan.close();
     }
 }
