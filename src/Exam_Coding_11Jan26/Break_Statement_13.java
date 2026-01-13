@@ -1,4 +1,4 @@
-package Exam_Coding;
+package Exam_Coding_11Jan26;
 
 //Write a Java program to print numbers from 1 to 10, but stop the loop when the number becomes 5 using the break statement.
 

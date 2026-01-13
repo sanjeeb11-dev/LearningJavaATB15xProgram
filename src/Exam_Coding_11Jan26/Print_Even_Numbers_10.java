@@ -1,4 +1,4 @@
-package Exam_Coding;
+package Exam_Coding_11Jan26;
 
 //Write a Java program to print all even numbers between 1 and 50 using a do-while loop.
 

@@ -1,4 +1,4 @@
-package Exam_Coding;
+package Exam_Coding_11Jan26;
 
 //Write a Java program to print numbers from 1 to 10 using a do-while loop.
 

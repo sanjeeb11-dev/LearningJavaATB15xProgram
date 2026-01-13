@@ -1,4 +1,4 @@
-package Exam_Coding;
+package Exam_Coding_11Jan26;
 
 //Write a Java program to check whether a given number is even or odd using arithmetic operators.
 

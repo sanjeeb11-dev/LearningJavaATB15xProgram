@@ -1,4 +1,4 @@
-package Exam_Coding;
+package Exam_Coding_11Jan26;
 
 //Write a Java program to perform addition, subtraction, multiplication, or division based on user choice using a switch statement.
 

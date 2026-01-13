@@ -1,4 +1,4 @@
-package Exam_Coding;
+package Exam_Coding_11Jan26;
 
 //Write a Java program to print the month name based on the month number (1–12) using a switch statement.
 

@@ -1,4 +1,4 @@
-package Exam_Coding;
+package Exam_Coding_11Jan26;
 
 //Write a Java program that takes two integer numbers and prints their sum, difference, multiplication, division, and remainder.
 
